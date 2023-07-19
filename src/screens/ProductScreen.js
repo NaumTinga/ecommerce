@@ -21,7 +21,6 @@ function ProductScreen({ match }) {
 
 
   
-  // const product = products.find((p) => p._id == params.id);
   return (
     <div>
       <Link to="/" className="btn btn-light my-3">
